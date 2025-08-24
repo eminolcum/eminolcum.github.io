@@ -1,9 +1,10 @@
 title: Muhammet Emin Ölçüm
 
 logo: /src/Image.JPG
+linkedin: https://www.linkedin.com/in/muhammeteminolcum/
 
-description: <a href="https://www.linkedin.com/in/muhammeteminolcum/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                <a href="https://github.com/eminolcum/" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
+#description: <a href="https://www.linkedin.com/in/muhammeteminolcum/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+               # <a href="https://github.com/eminolcum/" target="_blank" aria-label="GitHub"><i class="fab fa-github"></i></a>
 
 show_downloads: False
 
